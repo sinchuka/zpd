@@ -1,8 +1,10 @@
 ## Izvedot number guessing spēli ar Python programmēšanas valodu
 
-### Saturs
+### Dokumenta saturs
 
-#### 1. Aprakstīt spēli
+#### 1. Spēles apraksts
+Interesenta spēlē kas atīsta loģiku.
+
 #### 2. Spēles loģika
 
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
@@ -44,5 +46,3 @@ while repeat:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
 ```
-
-#### 3. Un t.t.
